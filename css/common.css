@@ -129,8 +129,8 @@ header class
   background-color: #0fab27;
   font-size: 30px;
   color: #fff;
-  width: 500px;
-  height: 50px;
+  height: 79px;
+  line-height: normal;
 }
 .head-list {
   float: left;
