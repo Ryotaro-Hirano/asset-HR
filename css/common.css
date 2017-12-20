@@ -203,6 +203,10 @@ footer class
 		margin: 0 0 20px;
 		text-align: center;
 	}
+  .header-menu {
+    float: none;
+    width: 100%
+  }
 }
 
 @media screen and (max-width:768px){
