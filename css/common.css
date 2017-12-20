@@ -124,6 +124,14 @@ header class
 .site-visual{
 	margin-bottom: 40px;
 }
+
+.head-list {
+  background-color: #0fab27;
+  font-size: 12px;
+  color: #fff;
+  width: 30px;
+  height: 10px;
+}
 /*--------------------------------------
 nav class
 --------------------------------------*/
