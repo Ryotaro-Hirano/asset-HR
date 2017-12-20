@@ -125,14 +125,17 @@ header class
 	margin-bottom: 40px;
 }
 
-.head-list {
+.header-menu {
   background-color: #0fab27;
   font-size: 30px;
   color: #fff;
-  width: 150px;
-  height: 40px;
+  width: 500px;
+  height: 50px;
+}
+.head-list {
   float: left;
   margin-left: 30px;
+  text-align: center;
 }
 /*--------------------------------------
 nav class
