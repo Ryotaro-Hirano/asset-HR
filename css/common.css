@@ -66,7 +66,7 @@ header class
 --------------------------------------*/
 .header{
 	position: relative;
-	/*margin-bottom: 60px;*/
+	margin-bottom: 20px;
 	padding:30px 0 0;
 }
 .site-logo{
