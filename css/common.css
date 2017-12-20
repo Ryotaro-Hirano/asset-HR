@@ -207,6 +207,11 @@ footer class
     float: none;
     width: 100%
   }
+
+  .header-list {
+    float: none;
+    width: 100%
+  }
 }
 
 @media screen and (max-width:768px){
