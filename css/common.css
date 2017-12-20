@@ -66,7 +66,7 @@ header class
 --------------------------------------*/
 .header{
 	position: relative;
-	margin-bottom: 60px;
+	/*margin-bottom: 60px;*/
 	padding:30px 0 0;
 }
 .site-logo{
@@ -84,7 +84,7 @@ header class
 	width: 100px;
 	height: 30px;
 	line-height: 30px;
-	text-align: center;	
+	text-align: center;
 }
 .login-list{
 	float: left;
@@ -105,7 +105,7 @@ header class
 	margin: 0 5px 0 4px;
 	padding:8px 3px;
 	border:solid 1px #d7d7d7;
-	line-height: 1.5;	
+	line-height: 1.5;
 }
 .btn-login{
 	-webkit-appearance:none;
@@ -144,7 +144,7 @@ footer class
 .footer{
 	padding:20px 0;
 	border-top: 1px solid #D8D8D8;
-	text-align: center;	
+	text-align: center;
 }
 .author-outer{
 	margin-bottom: 30px;
@@ -187,7 +187,7 @@ footer class
 	}
 	.site-logo{
 		float:none;
-		margin: 0 0 20px;	
+		margin: 0 0 20px;
 		text-align: center;
 	}
 }
@@ -222,8 +222,8 @@ footer class
 	}
 	.site-logo{
 		float:none;
-		margin: 0 0 20px;	
-	}	
+		margin: 0 0 20px;
+	}
 	/*--------------------------------------
 	nav class
 	--------------------------------------*/
